@@ -11,7 +11,7 @@ pip install colorama
 git clone https://github.com/LeonardoModz/LEO-MODS-WA-CRASHER
 ```
 ```bash
-cd WA_CRASHER
+cd LEO-MODS-WA-CRASHER
 ```
 ```bash
 chmod +x leomodscrasher.py (optional)
